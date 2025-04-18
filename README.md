@@ -1,24 +1,18 @@
-Employee Management System
-A MERN stack application for managing employee records with login, dashboard, employee list, create, and edit functionalities.
-Setup
+# Employee Management System
 
-Backend:
+A web-based application for managing employee records, roles, and departments.
 
-Navigate to backend/.
-Install dependencies: npm install.
-Start server: npm start.
+## 🧾 Features
 
+- Add, view, update, and delete employee records
+- Department and role assignment
+- Search and filter employees
+- User-friendly interface
+- Responsive design
 
-Frontend:
+## 🛠️ Tech Stack
 
-Navigate to frontend/.
-Install dependencies: npm install.
-Start app: npm start.
-
-
-
-Environment Variables
-
-Backend: Create backend/.env with PORT and MONGO_URI.
-Frontend: Create frontend/.env with REACT_APP_API_URL.
-
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Version Control**: Git & GitHub
