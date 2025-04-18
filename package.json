@@ -1,0 +1,13 @@
+{
+  "name": "employee-management",
+  "version": "1.0.0",
+  "description": "Employee Management System",
+  "scripts": {
+    "backend": "cd backend && npm start",
+    "frontend": "cd frontend && npm start",
+    "start": "npm run backend & npm run frontend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
